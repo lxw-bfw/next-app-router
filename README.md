@@ -142,11 +142,11 @@ export default function GlobalError({ error, reset }) {
 
 #### 分组示例
 
-![Snipaste_2024-08-08_18-31-43](D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\Snipaste_2024-08-08_18-31-43.png)
+![Snipaste_2024-08-08_18-31-43](https://github.com/lxw-bfw/next-app-router/blob/master/public/Snipaste_2024-08-08_18-31-43.png?raw=true)
 
 #### 多根布局示例
 
-![Snipaste_2024-08-08_18-32-34](D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\Snipaste_2024-08-08_18-32-34.png)
+![Snipaste_2024-08-08_18-32-34](https://github.com/lxw-bfw/next-app-router/blob/master/public/Snipaste_2024-08-08_18-32-34.png?raw=true)
 
 
 
@@ -154,15 +154,15 @@ export default function GlobalError({ error, reset }) {
 
 #### ` [folderName]`
 
-![Snipaste_2024-08-08_21-50-58](D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\Snipaste_2024-08-08_21-50-58.png)
+![Snipaste_2024-08-08_21-50-58](https://github.com/lxw-bfw/next-app-router/blob/master/public/Snipaste_2024-08-08_21-50-58.png?raw=true)
 
-![Snipaste_2024-08-08_21-51-23](D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\Snipaste_2024-08-08_21-51-23.png)
+![Snipaste_2024-08-08_21-51-23](https://github.com/lxw-bfw/next-app-router/blob/master/public/Snipaste_2024-08-08_21-51-23.png?raw=true)
 
 #### ` [...folderName]`
 
-![Snipaste_2024-08-08_21-51-58](D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\Snipaste_2024-08-08_21-51-58.png)
+![Snipaste_2024-08-08_21-51-58](https://github.com/lxw-bfw/next-app-router/blob/master/public/Snipaste_2024-08-08_21-51-58.png?raw=true)
 
-![Snipaste_2024-08-08_21-51-48](D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\Snipaste_2024-08-08_21-51-48.png)
+![Snipaste_2024-08-08_21-51-48](https://github.com/lxw-bfw/next-app-router/blob/master/public/Snipaste_2024-08-08_21-51-48.png?raw=true)
 
 #### ` [[...folderName]]`
 
@@ -194,9 +194,9 @@ export default function Layout({ children, team, analytics }) {
 
 #### 示例
 
-![Snipaste_2024-08-09_12-13-11](D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\Snipaste_2024-08-09_12-13-11.png)
+![Snipaste_2024-08-09_12-13-11](https://github.com/lxw-bfw/next-app-router/blob/master/public/Snipaste_2024-08-09_12-13-11.png?raw=true)
 
-<img src="D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\cebbef525a5d45047ec11992395f6cb.png" alt="cebbef525a5d45047ec11992395f6cb" style="zoom:50%;" />
+<img src="https://github.com/lxw-bfw/next-app-router/blob/master/public/cebbef525a5d45047ec11992395f6cb.png?raw=true" alt="cebbef525a5d45047ec11992395f6cb" style="zoom:50%;" />
 
 
 
@@ -208,9 +208,9 @@ export default function Layout({ children, team, analytics }) {
 
 #### 示例
 
-![Snipaste_2024-08-09_13-47-43](D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\Snipaste_2024-08-09_13-47-43.png)
+![Snipaste_2024-08-09_13-47-43](https://github.com/lxw-bfw/next-app-router/blob/master/public/Snipaste_2024-08-09_13-47-43.png?raw=true)
 
-<img src="D:\学吧\code-practice-实践-非小程序\ssr服务端渲染\框架篇\NextJs13 App Router\my-next-latest\public\Snipaste_2024-08-09_13-46-00.png" alt="Snipaste_2024-08-09_13-46-00" style="zoom:50%;" />
+<img src="https://github.com/lxw-bfw/next-app-router/blob/master/public/Snipaste_2024-08-09_13-46-00.png?raw=true" alt="Snipaste_2024-08-09_13-46-00" style="zoom:50%;" />
 
 
 
